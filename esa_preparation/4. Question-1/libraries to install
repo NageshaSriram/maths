@@ -1,0 +1,21 @@
+# For NumPy
+pip install numpy
+
+# For pandas
+pip install pandas
+
+# For matplotlib
+pip install matplotlib
+
+# For SymPy
+pip install sympy
+
+# For scikit-learn
+pip install scikit-learn
+
+# For PIL (Pillow)
+pip install pillow
+
+
+
+# make sure these libraries are installed
